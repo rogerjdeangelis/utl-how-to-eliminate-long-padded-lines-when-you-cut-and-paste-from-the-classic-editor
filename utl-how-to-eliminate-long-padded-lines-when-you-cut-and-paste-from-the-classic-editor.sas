@@ -4,6 +4,8 @@
 
 how to eliminate long padded lines when you cut and paste from the classic editor
 
+Simpler solution:  go to TOOLS/OPTIONS/PROGRAM EDITOR/ (uncheck include blank space in clipboard)
+
 This applies to the1980's  classic editor only?
 The other 5 or so sas editors may or may not need this.
 
