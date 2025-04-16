@@ -4,6 +4,8 @@ how to eliminate long padded lines when you cut and paste from the classic edito
 
     %stop_submission;
 
+    Simpler solution:  go to TOOLS/OPTIONS/PROGRAM EDITOR/ (uncheck include blank space in clipboard)
+
     how to eliminate long padded lines when you cut and paste from the classic editor
 
     This applies to the1980's  classic editor only?
